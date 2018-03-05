@@ -3,7 +3,7 @@
 The Iris flower data set or Fisher's Iris data set is a multivariate data set introduced by the British statistician and biologist Ronald Fisher in his 1936 paper The use of multiple measurements in taxonomic problems as an example of linear discriminant analysis. 
 
 ### The challenge.
-Deploy a Neural Network which will analyze the four features of an IRIS flower and predict it's specie.
+Deploy a Neural Network which will analyze the four features of an IRIS flower and predict it's specie. We will use tensorflow to deploy the neural network.
 
 ### The dataset.
 
@@ -37,4 +37,6 @@ It is a three layered neural network with 4 neurons in the input layer, 8 neuron
 
 ![image](https://user-images.githubusercontent.com/16969678/36962050-f0503a2a-2073-11e8-8358-a749a84f3c5b.png)
 )
+
+This arrangement predicts the species with 96% accuracy.
 
